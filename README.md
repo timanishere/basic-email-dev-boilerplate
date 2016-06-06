@@ -7,7 +7,7 @@ In order to use this boilerplate please install Git Bash https://git-for-windows
 
 1. Install Node.js (v4.4.5 LTS) https://nodejs.org/en/
 2. Run 'npm install gulp -g' in the command
-3. CD into the root and run 'npm install' in the command
+3. CD into the 'src' folder and run 'npm install' in the command
 4. Run 'gulp' in the command
 
 
